@@ -31,6 +31,7 @@ export default [
       "react/jsx-uses-react": "error",   
      "react/jsx-uses-vars": "error" ,
       'react/jsx-no-target-blank': 'off',
+      "react/prop-types": "off",
       "no-unused-vars": 0,
       'react-refresh/only-export-components': [
         'warn',
